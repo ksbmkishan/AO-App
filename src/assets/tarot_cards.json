@@ -1,0 +1,941 @@
+{
+   "en":[
+  {
+    "name": "The Fool",
+    "number": 0,
+    "direction": "Upright",
+    "result": "New beginnings, spontaneity, free spirit"
+  },
+  {
+    "name": "The Magician",
+    "number": 1,
+    "direction": "Upright",
+    "result": "Manifestation, power, resourcefulness"
+  },
+  {
+    "name": "The High Priestess",
+    "number": 2,
+    "direction": "Upright",
+    "result": "Intuition, sacred knowledge, mystery"
+  },
+  {
+    "name": "The Empress",
+    "number": 3,
+    "direction": "Upright",
+    "result": "Fertility, nurturing, abundance"
+  },
+  {
+    "name": "The Emperor",
+    "number": 4,
+    "direction": "Upright",
+    "result": "Authority, structure, stability"
+  },
+  {
+    "name": "The Hierophant",
+    "number": 5,
+    "direction": "Upright",
+    "result": "Tradition, conformity, spiritual wisdom"
+  },
+  {
+    "name": "The Lovers",
+    "number": 6,
+    "direction": "Upright",
+    "result": "Love, harmony, relationships, choices"
+  },
+  {
+    "name": "The Chariot",
+    "number": 7,
+    "direction": "Upright",
+    "result": "Control, willpower, determination, success"
+  },
+  {
+    "name": "Strength",
+    "number": 8,
+    "direction": "Upright",
+    "result": "Courage, patience, inner strength"
+  },
+  {
+    "name": "The Hermit",
+    "number": 9,
+    "direction": "Upright",
+    "result": "Introspection, solitude, inner guidance"
+  },
+  {
+    "name": "Wheel of Fortune",
+    "number": 10,
+    "direction": "Upright",
+    "result": "Change, cycles, destiny, luck"
+  },
+  {
+    "name": "Justice",
+    "number": 11,
+    "direction": "Upright",
+    "result": "Truth, fairness, law, accountability"
+  },
+  {
+    "name": "The Hanged Man",
+    "number": 12,
+    "direction": "Upright",
+    "result": "Pause, surrender, new perspective"
+  },
+  {
+    "name": "Death",
+    "number": 13,
+    "direction": "Upright",
+    "result": "Transformation, endings, new beginnings"
+  },
+  {
+    "name": "Temperance",
+    "number": 14,
+    "direction": "Upright",
+    "result": "Balance, moderation, purpose, harmony"
+  },
+  {
+    "name": "The Devil",
+    "number": 15,
+    "direction": "Upright",
+    "result": "Bondage, addiction, materialism, temptation"
+  },
+  {
+    "name": "The Tower",
+    "number": 16,
+    "direction": "Upright",
+    "result": "Sudden upheaval, chaos, revelation"
+  },
+  {
+    "name": "The Star",
+    "number": 17,
+    "direction": "Upright",
+    "result": "Hope, inspiration, renewal, spirituality"
+  },
+  {
+    "name": "The Moon",
+    "number": 18,
+    "direction": "Upright",
+    "result": "Illusion, intuition, fear, subconscious"
+  },
+  {
+    "name": "The Sun",
+    "number": 19,
+    "direction": "Upright",
+    "result": "Joy, success, positivity, vitality"
+  },
+  {
+    "name": "Judgement",
+    "number": 20,
+    "direction": "Upright",
+    "result": "Reflection, reckoning, awakening"
+  },
+  {
+    "name": "The World",
+    "number": 21,
+    "direction": "Upright",
+    "result": "Completion, accomplishment, travel"
+  },
+  {
+    "name": "Ace of Wands",
+    "number": 1,
+    "direction": "Upright",
+    "result": "Creativity, inspiration, willpower - Ace energy"
+  },
+  {
+    "name": "Two of Wands",
+    "number": 2,
+    "direction": "Upright",
+    "result": "Creativity, inspiration, willpower - Two energy"
+  },
+  {
+    "name": "Three of Wands",
+    "number": 3,
+    "direction": "Upright",
+    "result": "Creativity, inspiration, willpower - Three energy"
+  },
+  {
+    "name": "Four of Wands",
+    "number": 4,
+    "direction": "Upright",
+    "result": "Creativity, inspiration, willpower - Four energy"
+  },
+  {
+    "name": "Five of Wands",
+    "number": 5,
+    "direction": "Upright",
+    "result": "Creativity, inspiration, willpower - Five energy"
+  },
+  {
+    "name": "Six of Wands",
+    "number": 6,
+    "direction": "Upright",
+    "result": "Creativity, inspiration, willpower - Six energy"
+  },
+  {
+    "name": "Seven of Wands",
+    "number": 7,
+    "direction": "Upright",
+    "result": "Creativity, inspiration, willpower - Seven energy"
+  },
+  {
+    "name": "Eight of Wands",
+    "number": 8,
+    "direction": "Upright",
+    "result": "Creativity, inspiration, willpower - Eight energy"
+  },
+  {
+    "name": "Nine of Wands",
+    "number": 9,
+    "direction": "Upright",
+    "result": "Creativity, inspiration, willpower - Nine energy"
+  },
+  {
+    "name": "Ten of Wands",
+    "number": 10,
+    "direction": "Upright",
+    "result": "Creativity, inspiration, willpower - Ten energy"
+  },
+  {
+    "name": "Page of Wands",
+    "number": 11,
+    "direction": "Upright",
+    "result": "Creativity, inspiration, willpower - Page energy"
+  },
+  {
+    "name": "Knight of Wands",
+    "number": 12,
+    "direction": "Upright",
+    "result": "Creativity, inspiration, willpower - Knight energy"
+  },
+  {
+    "name": "Queen of Wands",
+    "number": 13,
+    "direction": "Upright",
+    "result": "Creativity, inspiration, willpower - Queen energy"
+  },
+  {
+    "name": "King of Wands",
+    "number": 14,
+    "direction": "Upright",
+    "result": "Creativity, inspiration, willpower - King energy"
+  },
+  {
+    "name": "Ace of Cups",
+    "number": 1,
+    "direction": "Upright",
+    "result": "Emotions, relationships, feelings - Ace energy"
+  },
+  {
+    "name": "Two of Cups",
+    "number": 2,
+    "direction": "Upright",
+    "result": "Emotions, relationships, feelings - Two energy"
+  },
+  {
+    "name": "Three of Cups",
+    "number": 3,
+    "direction": "Upright",
+    "result": "Emotions, relationships, feelings - Three energy"
+  },
+  {
+    "name": "Four of Cups",
+    "number": 4,
+    "direction": "Upright",
+    "result": "Emotions, relationships, feelings - Four energy"
+  },
+  {
+    "name": "Five of Cups",
+    "number": 5,
+    "direction": "Upright",
+    "result": "Emotions, relationships, feelings - Five energy"
+  },
+  {
+    "name": "Six of Cups",
+    "number": 6,
+    "direction": "Upright",
+    "result": "Emotions, relationships, feelings - Six energy"
+  },
+  {
+    "name": "Seven of Cups",
+    "number": 7,
+    "direction": "Upright",
+    "result": "Emotions, relationships, feelings - Seven energy"
+  },
+  {
+    "name": "Eight of Cups",
+    "number": 8,
+    "direction": "Upright",
+    "result": "Emotions, relationships, feelings - Eight energy"
+  },
+  {
+    "name": "Nine of Cups",
+    "number": 9,
+    "direction": "Upright",
+    "result": "Emotions, relationships, feelings - Nine energy"
+  },
+  {
+    "name": "Ten of Cups",
+    "number": 10,
+    "direction": "Upright",
+    "result": "Emotions, relationships, feelings - Ten energy"
+  },
+  {
+    "name": "Page of Cups",
+    "number": 11,
+    "direction": "Upright",
+    "result": "Emotions, relationships, feelings - Page energy"
+  },
+  {
+    "name": "Knight of Cups",
+    "number": 12,
+    "direction": "Upright",
+    "result": "Emotions, relationships, feelings - Knight energy"
+  },
+  {
+    "name": "Queen of Cups",
+    "number": 13,
+    "direction": "Upright",
+    "result": "Emotions, relationships, feelings - Queen energy"
+  },
+  {
+    "name": "King of Cups",
+    "number": 14,
+    "direction": "Upright",
+    "result": "Emotions, relationships, feelings - King energy"
+  },
+  {
+    "name": "Ace of Swords",
+    "number": 1,
+    "direction": "Upright",
+    "result": "Intellect, conflict, truth - Ace energy"
+  },
+  {
+    "name": "Two of Swords",
+    "number": 2,
+    "direction": "Upright",
+    "result": "Intellect, conflict, truth - Two energy"
+  },
+  {
+    "name": "Three of Swords",
+    "number": 3,
+    "direction": "Upright",
+    "result": "Intellect, conflict, truth - Three energy"
+  },
+  {
+    "name": "Four of Swords",
+    "number": 4,
+    "direction": "Upright",
+    "result": "Intellect, conflict, truth - Four energy"
+  },
+  {
+    "name": "Five of Swords",
+    "number": 5,
+    "direction": "Upright",
+    "result": "Intellect, conflict, truth - Five energy"
+  },
+  {
+    "name": "Six of Swords",
+    "number": 6,
+    "direction": "Upright",
+    "result": "Intellect, conflict, truth - Six energy"
+  },
+  {
+    "name": "Seven of Swords",
+    "number": 7,
+    "direction": "Upright",
+    "result": "Intellect, conflict, truth - Seven energy"
+  },
+  {
+    "name": "Eight of Swords",
+    "number": 8,
+    "direction": "Upright",
+    "result": "Intellect, conflict, truth - Eight energy"
+  },
+  {
+    "name": "Nine of Swords",
+    "number": 9,
+    "direction": "Upright",
+    "result": "Intellect, conflict, truth - Nine energy"
+  },
+  {
+    "name": "Ten of Swords",
+    "number": 10,
+    "direction": "Upright",
+    "result": "Intellect, conflict, truth - Ten energy"
+  },
+  {
+    "name": "Page of Swords",
+    "number": 11,
+    "direction": "Upright",
+    "result": "Intellect, conflict, truth - Page energy"
+  },
+  {
+    "name": "Knight of Swords",
+    "number": 12,
+    "direction": "Upright",
+    "result": "Intellect, conflict, truth - Knight energy"
+  },
+  {
+    "name": "Queen of Swords",
+    "number": 13,
+    "direction": "Upright",
+    "result": "Intellect, conflict, truth - Queen energy"
+  },
+  {
+    "name": "King of Swords",
+    "number": 14,
+    "direction": "Upright",
+    "result": "Intellect, conflict, truth - King energy"
+  },
+  {
+    "name": "Ace of Pentacles",
+    "number": 1,
+    "direction": "Upright",
+    "result": "Material, career, finances - Ace energy"
+  },
+  {
+    "name": "Two of Pentacles",
+    "number": 2,
+    "direction": "Upright",
+    "result": "Material, career, finances - Two energy"
+  },
+  {
+    "name": "Three of Pentacles",
+    "number": 3,
+    "direction": "Upright",
+    "result": "Material, career, finances - Three energy"
+  },
+  {
+    "name": "Four of Pentacles",
+    "number": 4,
+    "direction": "Upright",
+    "result": "Material, career, finances - Four energy"
+  },
+  {
+    "name": "Five of Pentacles",
+    "number": 5,
+    "direction": "Upright",
+    "result": "Material, career, finances - Five energy"
+  },
+  {
+    "name": "Six of Pentacles",
+    "number": 6,
+    "direction": "Upright",
+    "result": "Material, career, finances - Six energy"
+  },
+  {
+    "name": "Seven of Pentacles",
+    "number": 7,
+    "direction": "Upright",
+    "result": "Material, career, finances - Seven energy"
+  },
+  {
+    "name": "Eight of Pentacles",
+    "number": 8,
+    "direction": "Upright",
+    "result": "Material, career, finances - Eight energy"
+  },
+  {
+    "name": "Nine of Pentacles",
+    "number": 9,
+    "direction": "Upright",
+    "result": "Material, career, finances - Nine energy"
+  },
+  {
+    "name": "Ten of Pentacles",
+    "number": 10,
+    "direction": "Upright",
+    "result": "Material, career, finances - Ten energy"
+  },
+  {
+    "name": "Page of Pentacles",
+    "number": 11,
+    "direction": "Upright",
+    "result": "Material, career, finances - Page energy"
+  },
+  {
+    "name": "Knight of Pentacles",
+    "number": 12,
+    "direction": "Upright",
+    "result": "Material, career, finances - Knight energy"
+  },
+  {
+    "name": "Queen of Pentacles",
+    "number": 13,
+    "direction": "Upright",
+    "result": "Material, career, finances - Queen energy"
+  },
+  {
+    "name": "King of Pentacles",
+    "number": 14,
+    "direction": "Upright",
+    "result": "Material, career, finances - King energy"
+  }
+],
+"hi":[
+  {
+      "name": "मूर्ख (The Fool)",
+      "number": 0,
+      "direction": "सिधा (Upright)",
+      "result": "नई शुरुआत, सहजता, स्वतंत्र आत्मा"
+    },
+    {
+      "name": "जादूगर (The Magician)",
+      "number": 1,
+      "direction": "सिधा (Upright)",
+      "result": "साकार करना, शक्ति, संसाधनशीलता"
+    },
+    {
+      "name": "महायाजिका (The High Priestess)",
+      "number": 2,
+      "direction": "सिधा (Upright)",
+      "result": "सहज ज्ञान, पवित्र ज्ञान, रहस्य"
+    },
+    {
+    "name": "सम्राज्ञी (The Empress)",
+    "number": 3,
+    "direction": "सिधा (Upright)",
+    "result": "प्रजनन, पोषण, समृद्धि"
+  },
+  {
+    "name": "सम्राट (The Emperor)",
+    "number": 4,
+    "direction": "सिधा (Upright)",
+    "result": "अधिकार, संरचना, स्थिरता"
+  },
+  {
+    "name": "महायाजक (The Hierophant)",
+    "number": 5,
+    "direction": "सिधा (Upright)",
+    "result": "परंपरा, अनुशासन, आध्यात्मिक ज्ञान"
+  },
+  {
+    "name": "प्रेमी (The Lovers)",
+    "number": 6,
+    "direction": "सिधा (Upright)",
+    "result": "प्रेम, सामंजस्य, रिश्ते, विकल्प"
+  },
+  {
+    "name": "रथ (The Chariot)",
+    "number": 7,
+    "direction": "सिधा (Upright)",
+    "result": "नियंत्रण, इच्छाशक्ति, दृढ़ता, सफलता"
+  },
+  {
+    "name": "साहस (Strength)",
+    "number": 8,
+    "direction": "सिधा (Upright)",
+    "result": "साहस, धैर्य, आंतरिक शक्ति"
+  },
+  {
+    "name": "साधु (The Hermit)",
+    "number": 9,
+    "direction": "सिधा (Upright)",
+    "result": "आत्म-निरीक्षण, एकांत, आंतरिक मार्गदर्शन"
+  },
+  {
+    "name": "भाग्य का चक्र (Wheel of Fortune)",
+    "number": 10,
+    "direction": "सिधा (Upright)",
+    "result": "परिवर्तन, चक्र, नियति, भाग्य"
+  },
+  {
+    "name": "न्याय (Justice)",
+    "number": 11,
+    "direction": "सिधा (Upright)",
+    "result": "सत्य, न्याय, कानून, जिम्मेदारी"
+  },
+  {
+    "name": "लटका हुआ व्यक्ति (The Hanged Man)",
+    "number": 12,
+    "direction": "सिधा (Upright)",
+    "result": "विराम, समर्पण, नया दृष्टिकोण"
+  },
+  {
+    "name": "मृत्यु (Death)",
+    "number": 13,
+    "direction": "सिधा (Upright)",
+    "result": "परिवर्तन, अंत, नई शुरुआत"
+  },
+  {
+    "name": "संयम (Temperance)",
+    "number": 14,
+    "direction": "सिधा (Upright)",
+    "result": "संतुलन, मध्यमता, उद्देश्य, सामंजस्य"
+  },
+  {
+    "name": "शैतान (The Devil)",
+    "number": 15,
+    "direction": "सिधा (Upright)",
+    "result": "बंधन, लत, भौतिकवाद, प्रलोभन"
+  },
+  {
+    "name": "मीनार (The Tower)",
+    "number": 16,
+    "direction": "सिधा (Upright)",
+    "result": "अचानक उथल-पुथल, अराजकता, प्रकट होना"
+  },
+  {
+    "name": "तारा (The Star)",
+    "number": 17,
+    "direction": "सिधा (Upright)",
+    "result": "आशा, प्रेरणा, नवीनीकरण, आध्यात्मिकता"
+  },
+  {
+    "name": "चंद्रमा (The Moon)",
+    "number": 18,
+    "direction": "सिधा (Upright)",
+    "result": "भ्रम, अंतर्दृष्टि, भय, अवचेतन"
+  },
+  {
+    "name": "सूर्य (The Sun)",
+    "number": 19,
+    "direction": "सिधा (Upright)",
+    "result": "खुशी, सफलता, सकारात्मकता, ऊर्जा"
+  },
+  {
+    "name": "निर्णय (Judgement)",
+    "number": 20,
+    "direction": "सिधा (Upright)",
+    "result": "प्रतिबिंब, आकलन, जागृति"
+  },
+  {
+    "name": "संसार (The World)",
+    "number": 21,
+    "direction": "सिधा (Upright)",
+    "result": "पूरकता, उपलब्धि, यात्रा"
+  },
+  {
+    "name": "छड़ी का एस (Ace of Wands)",
+    "number": 1,
+    "direction": "सिधा (Upright)",
+    "result": "रचनात्मकता, प्रेरणा, इच्छाशक्ति - एस ऊर्जा"
+  },
+  {
+    "name": "छड़ी के दो (Two of Wands)",
+    "number": 2,
+    "direction": "सिधा (Upright)",
+    "result": "रचनात्मकता, प्रेरणा, इच्छाशक्ति - दो ऊर्जा"
+  },
+  {
+    "name": "छड़ी के तीन (Three of Wands)",
+    "number": 3,
+    "direction": "सिधा (Upright)",
+    "result": "रचनात्मकता, प्रेरणा, इच्छाशक्ति - तीन ऊर्जा"
+  },
+  {
+    "name": "छड़ी के चार (Four of Wands)",
+    "number": 4,
+    "direction": "सिधा (Upright)",
+    "result": "रचनात्मकता, प्रेरणा, इच्छाशक्ति - चार ऊर्जा"
+  },
+  {
+    "name": "छड़ी के पांच (Five of Wands)",
+    "number": 5,
+    "direction": "सिधा (Upright)",
+    "result": "रचनात्मकता, प्रेरणा, इच्छाशक्ति - पांच ऊर्जा"
+  },
+  {
+    "name": "छड़ी के छह (Six of Wands)",
+    "number": 6,
+    "direction": "सिधा (Upright)",
+    "result": "रचनात्मकता, प्रेरणा, इच्छाशक्ति - छह ऊर्जा"
+  },
+  {
+    "name": "छड़ी के सात (Seven of Wands)",
+    "number": 7,
+    "direction": "सिधा (Upright)",
+    "result": "रचनात्मकता, प्रेरणा, इच्छाशक्ति - सात ऊर्जा"
+  },
+  {
+    "name": "छड़ी के आठ (Eight of Wands)",
+    "number": 8,
+    "direction": "सिधा (Upright)",
+    "result": "रचनात्मकता, प्रेरणा, इच्छाशक्ति - आठ ऊर्जा"
+  },
+  {
+    "name": "छड़ी के नौ (Nine of Wands)",
+    "number": 9,
+    "direction": "सिधा (Upright)",
+    "result": "रचनात्मकता, प्रेरणा, इच्छाशक्ति - नौ ऊर्जा"
+  },
+  {
+    "name": "छड़ी के दस (Ten of Wands)",
+    "number": 10,
+    "direction": "सिधा (Upright)",
+    "result": "रचनात्मकता, प्रेरणा, इच्छाशक्ति - दस ऊर्जा"
+  },
+  {
+    "name": "छड़ी का पृष्ठ (Page of Wands)",
+    "number": 11,
+    "direction": "सिधा (Upright)",
+    "result": "रचनात्मकता, प्रेरणा, इच्छाशक्ति - पृष्ठ ऊर्जा"
+  },
+  {
+    "name": "छड़ी का योद्धा (Knight of Wands)",
+    "number": 12,
+    "direction": "सिधा (Upright)",
+    "result": "रचनात्मकता, प्रेरणा, इच्छाशक्ति - योद्धा ऊर्जा"
+  },
+  {
+    "name": "छड़ी की रानी (Queen of Wands)",
+    "number": 13,
+    "direction": "सिधा (Upright)",
+    "result": "रचनात्मकता, प्रेरणा, इच्छाशक्ति - रानी ऊर्जा"
+  },
+  {
+    "name": "छड़ी का राजा (King of Wands)",
+    "number": 14,
+    "direction": "सिधा (Upright)",
+    "result": "रचनात्मकता, प्रेरणा, इच्छाशक्ति - राजा ऊर्जा"
+  },
+  {
+    "name": "कप का एस (Ace of Cups)",
+    "number": 1,
+    "direction": "सिधा (Upright)",
+    "result": "भावनाएँ, रिश्ते, संवेदनाएँ - एस ऊर्जा"
+  },
+  {
+    "name": "कप के दो (Two of Cups)",
+    "number": 2,
+    "direction": "सिधा (Upright)",
+    "result": "भावनाएँ, रिश्ते, संवेदनाएँ - दो ऊर्जा"
+  },
+  {
+    "name": "कप के तीन (Three of Cups)",
+    "number": 3,
+    "direction": "सिधा (Upright)",
+    "result": "भावनाएँ, रिश्ते, संवेदनाएँ - तीन ऊर्जा"
+  },
+  {
+    "name": "कप के चार (Four of Cups)",
+    "number": 4,
+    "direction": "सिधा (Upright)",
+    "result": "भावनाएँ, रिश्ते, संवेदनाएँ - चार ऊर्जा"
+  },
+  {
+    "name": "कप के पांच (Five of Cups)",
+    "number": 5,
+    "direction": "सिधा (Upright)",
+    "result": "भावनाएँ, रिश्ते, संवेदनाएँ - पांच ऊर्जा"
+  },
+  {
+    "name": "कप के छह (Six of Cups)",
+    "number": 6,
+    "direction": "सिधा (Upright)",
+    "result": "भावनाएँ, रिश्ते, संवेदनाएँ - छह ऊर्जा"
+  },
+  {
+    "name": "कप के सात (Seven of Cups)",
+    "number": 7,
+    "direction": "सिधा (Upright)",
+    "result": "भावनाएँ, रिश्ते, संवेदनाएँ - सात ऊर्जा"
+  },
+  {
+    "name": "कप के आठ (Eight of Cups)",
+    "number": 8,
+    "direction": "सिधा (Upright)",
+    "result": "भावनाएँ, रिश्ते, संवेदनाएँ - आठ ऊर्जा"
+  },
+  {
+    "name": "कप के नौ (Nine of Cups)",
+    "number": 9,
+    "direction": "सिधा (Upright)",
+    "result": "भावनाएँ, रिश्ते, संवेदनाएँ - नौ ऊर्जा"
+  },
+  {
+    "name": "कप के दस (Ten of Cups)",
+    "number": 10,
+    "direction": "सिधा (Upright)",
+    "result": "भावनाएँ, रिश्ते, संवेदनाएँ - दस ऊर्जा"
+  },
+  {
+    "name": "कप का पृष्ठ (Page of Cups)",
+    "number": 11,
+    "direction": "सिधा (Upright)",
+    "result": "भावनाएँ, रिश्ते, संवेदनाएँ - पृष्ठ ऊर्जा"
+  },
+  {
+    "name": "कप का योद्धा (Knight of Cups)",
+    "number": 12,
+    "direction": "सिधा (Upright)",
+    "result": "भावनाएँ, रिश्ते, संवेदनाएँ - योद्धा ऊर्जा"
+  },
+  {
+    "name": "कप की रानी (Queen of Cups)",
+    "number": 13,
+    "direction": "सिधा (Upright)",
+    "result": "भावनाएँ, रिश्ते, संवेदनाएँ - रानी ऊर्जा"
+  },
+  {
+    "name": "कप का राजा (King of Cups)",
+    "number": 14,
+    "direction": "सिधा (Upright)",
+    "result": "भावनाएँ, रिश्ते, संवेदनाएँ - राजा ऊर्जा"
+  },
+  {
+    "name": "तलवार का एस (Ace of Swords)",
+    "number": 1,
+    "direction": "सिधा (Upright)",
+    "result": "बुद्धि, संघर्ष, सत्य - एस ऊर्जा"
+  },
+  {
+    "name": "तलवार के दो (Two of Swords)",
+    "number": 2,
+    "direction": "सिधा (Upright)",
+    "result": "बुद्धि, संघर्ष, सत्य - दो ऊर्जा"
+  },
+  {
+    "name": "तलवार के तीन (Three of Swords)",
+    "number": 3,
+    "direction": "सिधा (Upright)",
+    "result": "बुद्धि, संघर्ष, सत्य - तीन ऊर्जा"
+  },
+  {
+    "name": "तलवार के चार (Four of Swords)",
+    "number": 4,
+    "direction": "सिधा (Upright)",
+    "result": "बुद्धि, संघर्ष, सत्य - चार ऊर्जा"
+  },
+  {
+    "name": "तलवार के पांच (Five of Swords)",
+    "number": 5,
+    "direction": "सिधा (Upright)",
+    "result": "बुद्धि, संघर्ष, सत्य - पांच ऊर्जा"
+  },
+  {
+    "name": "तलवार के छह (Six of Swords)",
+    "number": 6,
+    "direction": "सिधा (Upright)",
+    "result": "बुद्धि, संघर्ष, सत्य - छह ऊर्जा"
+  },
+  {
+    "name": "तलवार के सात (Seven of Swords)",
+    "number": 7,
+    "direction": "सिधा (Upright)",
+    "result": "बुद्धि, संघर्ष, सत्य - सात ऊर्जा"
+  },
+  {
+    "name": "तलवार के आठ (Eight of Swords)",
+    "number": 8,
+    "direction": "सिधा (Upright)",
+    "result": "बुद्धि, संघर्ष, सत्य - आठ ऊर्जा"
+  },
+  {
+    "name": "तलवार के नौ (Nine of Swords)",
+    "number": 9,
+    "direction": "सिधा (Upright)",
+    "result": "बुद्धि, संघर्ष, सत्य - नौ ऊर्जा"
+  },
+  {
+    "name": "तलवार के दस (Ten of Swords)",
+    "number": 10,
+    "direction": "सिधा (Upright)",
+    "result": "बुद्धि, संघर्ष, सत्य - दस ऊर्जा"
+  },
+  {
+    "name": "तलवार का पृष्ठ (Page of Swords)",
+    "number": 11,
+    "direction": "सिधा (Upright)",
+    "result": "बुद्धि, संघर्ष, सत्य - पृष्ठ ऊर्जा"
+  },
+  {
+    "name": "तलवार का योद्धा (Knight of Swords)",
+    "number": 12,
+    "direction": "सिधा (Upright)",
+    "result": "बुद्धि, संघर्ष, सत्य - योद्धा ऊर्जा"
+  },
+  {
+    "name": "तलवार की रानी (Queen of Swords)",
+    "number": 13,
+    "direction": "सिधा (Upright)",
+    "result": "बुद्धि, संघर्ष, सत्य - रानी ऊर्जा"
+  },
+  {
+    "name": "तलवार का राजा (King of Swords)",
+    "number": 14,
+    "direction": "सिधा (Upright)",
+    "result": "बुद्धि, संघर्ष, सत्य - राजा ऊर्जा"
+  },
+  {
+    "name": "पेंटाकल का एस (Ace of Pentacles)",
+    "number": 1,
+    "direction": "सिधा (Upright)",
+    "result": "सामग्री, करियर, वित्त - एस ऊर्जा"
+  },
+  {
+    "name": "पेंटाकल के दो (Two of Pentacles)",
+    "number": 2,
+    "direction": "सिधा (Upright)",
+    "result": "सामग्री, करियर, वित्त - दो ऊर्जा"
+  },
+  {
+    "name": "पेंटाकल के तीन (Three of Pentacles)",
+    "number": 3,
+    "direction": "सिधा (Upright)",
+    "result": "सामग्री, करियर, वित्त - तीन ऊर्जा"
+  },
+  {
+    "name": "पेंटाकल के चार (Four of Pentacles)",
+    "number": 4,
+    "direction": "सिधा (Upright)",
+    "result": "सामग्री, करियर, वित्त - चार ऊर्जा"
+  },
+  {
+    "name": "पेंटाकल के पांच (Five of Pentacles)",
+    "number": 5,
+    "direction": "सिधा (Upright)",
+    "result": "सामग्री, करियर, वित्त - पांच ऊर्जा"
+  },
+  {
+    "name": "पेंटाकल के छह (Six of Pentacles)",
+    "number": 6,
+    "direction": "सिधा (Upright)",
+    "result": "सामग्री, करियर, वित्त - छह ऊर्जा"
+  },
+  {
+    "name": "पेंटाकल के सात (Seven of Pentacles)",
+    "number": 7,
+    "direction": "सिधा (Upright)",
+    "result": "सामग्री, करियर, वित्त - सात ऊर्जा"
+  },
+  {
+    "name": "पेंटाकल के आठ (Eight of Pentacles)",
+    "number": 8,
+    "direction": "सिधा (Upright)",
+    "result": "सामग्री, करियर, वित्त - आठ ऊर्जा"
+  },
+  {
+    "name": "पेंटाकल के नौ (Nine of Pentacles)",
+    "number": 9,
+    "direction": "सिधा (Upright)",
+    "result": "सामग्री, करियर, वित्त - नौ ऊर्जा"
+  },
+  {
+    "name": "पेंटाकल के दस (Ten of Pentacles)",
+    "number": 10,
+    "direction": "सिधा (Upright)",
+    "result": "सामग्री, करियर, वित्त - दस ऊर्जा"
+  },
+  {
+    "name": "पेंटाकल का पृष्ठ (Page of Pentacles)",
+    "number": 11,
+    "direction": "सिधा (Upright)",
+    "result": "सामग्री, करियर, वित्त - पृष्ठ ऊर्जा"
+  },
+  {
+    "name": "पेंटाकल का योद्धा (Knight of Pentacles)",
+    "number": 12,
+    "direction": "सिधा (Upright)",
+    "result": "सामग्री, करियर, वित्त - योद्धा ऊर्जा"
+  },
+  {
+    "name": "पेंटाकल की रानी (Queen of Pentacles)",
+    "number": 13,
+    "direction": "सिधा (Upright)",
+    "result": "सामग्री, करियर, वित्त - रानी ऊर्जा"
+  },
+  {
+    "name": "पेंटाकल का राजा (King of Pentacles)",
+    "number": 14,
+    "direction": "सिधा (Upright)",
+    "result": "सामग्री, करियर, वित्त - राजा ऊर्जा"
+  }
+]}

@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">AstroOneApp</string>
+    <string name="app_name">AstroOne</string>
+    <string name="game_view_content_description">Game view</string>
+ <string name="facebook_app_id">1158448132915697</string>
+<string name="fb_login_protocol_scheme">fb1158448132915697</string>
+<string name="facebook_client_token">911b107e3bfee8274a4a76007a254e72</string>
+
 </resources>
