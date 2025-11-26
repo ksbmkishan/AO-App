@@ -21,9 +21,14 @@ dependencies {
 
 android {
     namespace "com.unity3d.player"
-    ndkPath "/Applications/Unity/Hub/Editor/6000.2.6f2/PlaybackEngines/AndroidPlayer/NDK"
-    ndkVersion "27.2.12479018"
-
+    
+    // <CHANGE> Conditional NDK path - works on both local Mac and Expo build servers
+    def localNdkPath = "/Applications/Unity/Hub/Editor/6000.2.6f2/PlaybackEngines/AndroidPlayer/NDK"
+    if (new File(localNdkPath).exists()) {
+        ndkPath localNdkPath
+    }
+    // Use NDK version compatible with EAS build servers
+    ndkVersion "25.1.8937393"
     compileSdk 36
     buildToolsVersion = "34.0.0"
 
